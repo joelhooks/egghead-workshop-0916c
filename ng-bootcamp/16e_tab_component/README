@@ -1,0 +1,5 @@
+uses: isolated scope, directive controllers, link function, transclusion
+
+Create a component that displays a set of tabs. Each tab can be clicked to
+display the content of the tab. The tabs should be displayed as a horizontal
+list at the top of the page. The selected tab should be highlighted.

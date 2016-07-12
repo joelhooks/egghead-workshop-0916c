@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en" ng-app>
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Madlibs</title>
+  <link rel="stylesheet" href="../../vendor/bootstrap-css/css/bootstrap.css">
+  <script src="../../vendor/angular/angular.js"></script>
+</head>
+<body>
+
+<div id="madInput">
+  <input type="text" placeholder="emotion" ng-model="emotion">
+  <input type="text" placeholder="verb" ng-model="verb">
+  <input type="text" placeholder="quantity" ng-model="quantity">
+  <input type="text" placeholder="price" ng-model="price">
+  <input type="text" placeholder="tv show" ng-model="tv">
+  <input type="text" placeholder="you can't type anyways" ng-model="true">
+</div>
+<div id="madResults">
+  <h1>Are they mad??</h1>
+  <p>The deep {{emotion || "____"}} of programming. We will {{verb || "____"}} it eventually.</p>
+  <p> {{quantity || "____"}} elephants caused ${{price || "____"}} in damage each. It was ${{quantity * price || "____"}}
+    total.</p>
+  <p> Did you watch {{tv || "____"}}?</p>
+  <p>T/F - I'm not sure how to use a logical operator in a madlib scenario: {{true}}.
+</div>
+
+</body>
+</html>

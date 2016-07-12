@@ -1,0 +1,12 @@
+uses: $http, promises, ng-repeat, filters
+
+https://github.com/toddmotto/public-apis
+
+Worked well, no registration:
+SWAPI - star wars
+Pokemon
+Netflix Roulette
+
+Using this list of public APIs, pick something that interests you.
+Load some data and display a list of items on the screen.
+Add the ability to sort and filter the list.

@@ -1,0 +1,19 @@
+uses: ng-app, ng-controller, module, controller, ng-if, controller as,
+controller properties, controller methods
+
+Guessing game:
+
+The user can input a number and submit it.
+The number will be compared to a property on the controller.
+
+Math.random() * 1000;
+
+If the user guesses correctly it will display the message and hide
+the input/button.
+
+If the user guesses incorrectly, a message is displayed indicating
+a high or low guess.
+
+With every guess, any previous messages should be removed.
+The number of guesses will also be tracked and displayed.
+

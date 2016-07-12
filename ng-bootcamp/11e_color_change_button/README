@@ -1,0 +1,4 @@
+uses: directive, jqLite, dom manipulation
+
+Create a directive that updates the element it is applied to,
+changing the color of the element's background each time it is clicked.

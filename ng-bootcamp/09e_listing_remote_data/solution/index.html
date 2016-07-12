@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" ng-app="netflix">
+<head>
+  <meta charset="UTF-8">
+  <title>Netflix Roulette</title>
+  <link rel="stylesheet" href="../../vendor/bootstrap-css/css/bootstrap.css">
+  <script src="../../vendor/angular/angular.js"></script>
+  <script src="app.js"></script>
+</head>
+<body ng-controller="NeflixActorSearchCtrl as netflixActorSearch">
+<div class="container">
+  <div class="hero">
+    <h1>Netflix Actor Search</h1>
+  </div>
+  <div class="row">
+    <form ng-submit="netflixActorSearch.loadMoviesWith(netflixActorSearch.actorName)">
+      <label>Actor
+        <input type="text" ng-model="netflixActorSearch.actorName">
+      </label>
+      <button type="submit">Search Now</button>
+    </form>
+  </div>
+
+  <div class="results" ng-if="netflixActorSearch.lastSearch">
+    <h2>Searched for: <strong>{{netflixActorSearch.lastSearch}}</strong></h2>
+
+    <table class="table table-striped" ng-if="netflixActorSearch.movies.length">
+      <thead>
+      <tr>
+        <th></th>
+        <th ng-click="netflixActorSearch.updateSortField('show_title')">Title</th>
+        <th ng-click="netflixActorSearch.updateSortField('release_year')">Year Released</th>
+        <th ng-click="netflixActorSearch.updateSortField('runtime')">Runtime</th>
+        <th >Summary</th>
+
+      </tr>
+      </thead>
+      <tbody>
+      <tr ng-repeat="movie in netflixActorSearch.movies | orderBy: netflixActorSearch.sortField">
+        <td><img ng-src="{{movie.poster}}" style="width: 50px; height: auto;" err-src="kitty.jpeg" /></td>
+        <td>{{movie.show_title}}</td>
+        <td>{{movie.release_year}}</td>
+        <td>{{movie.runtime}}</td>
+        <td width="25%">{{movie.summary}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+</body>
+</html>

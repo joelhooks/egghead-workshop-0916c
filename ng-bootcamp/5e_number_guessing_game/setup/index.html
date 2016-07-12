@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Guessing Game</title>
+
+  <link rel="stylesheet" href="../../vendor/bootstrap-css/css/bootstrap.css">
+
+  <script src="../../vendor/angular/angular.js"></script>
+  <script src="app.js"></script>
+</head>
+<body>
+<div class="container">
+  <h1>Guess the Number!</h1>
+  <section>
+    <div class="well">Guess the number between 1 and 1000</div>
+    <div>
+      <input type="text">
+      <button class="btn btn-success">Guess!</button>
+    </div>
+  </section>
+  <hr>
+  <section>
+    <h3 >You guessed <code>000</code>.</h3>
+    <div class="alert alert-danger">Your guess is too small!</div>
+    <div class="alert alert-danger">Your guess is too big!</div>
+    <div class="alert alert-success">Your guess is correct!</div>
+    <div>Guesses <span class="badge">0</span></div>
+  </section>
+</div>
+</body>
+</html>

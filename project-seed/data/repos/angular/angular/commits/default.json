@@ -1,0 +1,2102 @@
+[
+  {
+    "sha": "09311956957f8b810afdb649045f01536f79ada9",
+    "commit": {
+      "author": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-03T14:03:18Z"
+      },
+      "committer": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-03T14:56:13Z"
+      },
+      "message": "chore(build): more clean up for legacy typings bundle creation\n\nRelated to 5f2eb3e078aeb8c3966e8fb279c332506021e58d\n\nCloses #5091",
+      "tree": {
+        "sha": "72034bee02e880334baa86b5b51e0e8fcd412f91",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/72034bee02e880334baa86b5b51e0e8fcd412f91"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/09311956957f8b810afdb649045f01536f79ada9",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/09311956957f8b810afdb649045f01536f79ada9",
+    "html_url": "https://github.com/angular/angular/commit/09311956957f8b810afdb649045f01536f79ada9",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/09311956957f8b810afdb649045f01536f79ada9/comments",
+    "author": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc",
+        "url": "https://api.github.com/repos/angular/angular/commits/2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc",
+        "html_url": "https://github.com/angular/angular/commit/2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc"
+      }
+    ]
+  },
+  {
+    "sha": "2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc",
+    "commit": {
+      "author": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-02T14:53:53Z"
+      },
+      "committer": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-03T08:31:45Z"
+      },
+      "message": "chore(bundles): unify workflow for router bundles\n\nCloses #5068",
+      "tree": {
+        "sha": "43f9db17cfd5ddb7ecc915166089f4a3eeccf6e9",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/43f9db17cfd5ddb7ecc915166089f4a3eeccf6e9"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc",
+    "html_url": "https://github.com/angular/angular/commit/2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/2cc6927d1ac5dea918b1eeec7ee617a6cca33ebc/comments",
+    "author": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bff9dc26c796c8d3e435ce04f050625c6890d8f1",
+        "url": "https://api.github.com/repos/angular/angular/commits/bff9dc26c796c8d3e435ce04f050625c6890d8f1",
+        "html_url": "https://github.com/angular/angular/commit/bff9dc26c796c8d3e435ce04f050625c6890d8f1"
+      }
+    ]
+  },
+  {
+    "sha": "bff9dc26c796c8d3e435ce04f050625c6890d8f1",
+    "commit": {
+      "author": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-02T14:39:00Z"
+      },
+      "committer": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-03T08:31:44Z"
+      },
+      "message": "chore(bundles): don't duplicate reflect-metadata in http bundle\n\nSince HTTP can't be used on its own there is no reason for duplicating\nreflect-metadata in the http bundle",
+      "tree": {
+        "sha": "43f0ce8f16b4b0d70a0dc036b5dcca2598323f8b",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/43f0ce8f16b4b0d70a0dc036b5dcca2598323f8b"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/bff9dc26c796c8d3e435ce04f050625c6890d8f1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/bff9dc26c796c8d3e435ce04f050625c6890d8f1",
+    "html_url": "https://github.com/angular/angular/commit/bff9dc26c796c8d3e435ce04f050625c6890d8f1",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/bff9dc26c796c8d3e435ce04f050625c6890d8f1/comments",
+    "author": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2f047887d31986c4ae04e08be5906fa0b87eb87b",
+        "url": "https://api.github.com/repos/angular/angular/commits/2f047887d31986c4ae04e08be5906fa0b87eb87b",
+        "html_url": "https://github.com/angular/angular/commit/2f047887d31986c4ae04e08be5906fa0b87eb87b"
+      }
+    ]
+  },
+  {
+    "sha": "2f047887d31986c4ae04e08be5906fa0b87eb87b",
+    "commit": {
+      "author": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-02T14:33:16Z"
+      },
+      "committer": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-03T08:31:44Z"
+      },
+      "message": "chore(bundles): unify padding with dependencies",
+      "tree": {
+        "sha": "76be7b228606f91e8307f7717e8796b601484deb",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/76be7b228606f91e8307f7717e8796b601484deb"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/2f047887d31986c4ae04e08be5906fa0b87eb87b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/2f047887d31986c4ae04e08be5906fa0b87eb87b",
+    "html_url": "https://github.com/angular/angular/commit/2f047887d31986c4ae04e08be5906fa0b87eb87b",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/2f047887d31986c4ae04e08be5906fa0b87eb87b/comments",
+    "author": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9220b0bbc1079dfad0a6be8b90705acb24829e1b",
+        "url": "https://api.github.com/repos/angular/angular/commits/9220b0bbc1079dfad0a6be8b90705acb24829e1b",
+        "html_url": "https://github.com/angular/angular/commit/9220b0bbc1079dfad0a6be8b90705acb24829e1b"
+      }
+    ]
+  },
+  {
+    "sha": "9220b0bbc1079dfad0a6be8b90705acb24829e1b",
+    "commit": {
+      "author": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-02T14:27:21Z"
+      },
+      "committer": {
+        "name": "Pawel Kozlowski",
+        "email": "pkozlowski.opensource@gmail.com",
+        "date": "2015-11-03T08:31:44Z"
+      },
+      "message": "chore(bundles): unify router bundles creation with other bundles",
+      "tree": {
+        "sha": "129de555c622efbf1f7eabcd110e56d576691280",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/129de555c622efbf1f7eabcd110e56d576691280"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/9220b0bbc1079dfad0a6be8b90705acb24829e1b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/9220b0bbc1079dfad0a6be8b90705acb24829e1b",
+    "html_url": "https://github.com/angular/angular/commit/9220b0bbc1079dfad0a6be8b90705acb24829e1b",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/9220b0bbc1079dfad0a6be8b90705acb24829e1b/comments",
+    "author": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "pkozlowski-opensource",
+      "id": 973550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/973550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pkozlowski-opensource",
+      "html_url": "https://github.com/pkozlowski-opensource",
+      "followers_url": "https://api.github.com/users/pkozlowski-opensource/followers",
+      "following_url": "https://api.github.com/users/pkozlowski-opensource/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pkozlowski-opensource/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pkozlowski-opensource/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pkozlowski-opensource/subscriptions",
+      "organizations_url": "https://api.github.com/users/pkozlowski-opensource/orgs",
+      "repos_url": "https://api.github.com/users/pkozlowski-opensource/repos",
+      "events_url": "https://api.github.com/users/pkozlowski-opensource/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pkozlowski-opensource/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "16bc238f104c5cc2486202b5a6452f7ba6637a94",
+        "url": "https://api.github.com/repos/angular/angular/commits/16bc238f104c5cc2486202b5a6452f7ba6637a94",
+        "html_url": "https://github.com/angular/angular/commit/16bc238f104c5cc2486202b5a6452f7ba6637a94"
+      }
+    ]
+  },
+  {
+    "sha": "16bc238f104c5cc2486202b5a6452f7ba6637a94",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-03T00:45:31Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-03T00:46:54Z"
+      },
+      "message": "feat(core): make transformers handle @Input/@Output/@HostBinding/@HostListener\n\nCloses #5080",
+      "tree": {
+        "sha": "b1185788febbdd479b4aface25573b00cbd31a73",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/b1185788febbdd479b4aface25573b00cbd31a73"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/16bc238f104c5cc2486202b5a6452f7ba6637a94",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/16bc238f104c5cc2486202b5a6452f7ba6637a94",
+    "html_url": "https://github.com/angular/angular/commit/16bc238f104c5cc2486202b5a6452f7ba6637a94",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/16bc238f104c5cc2486202b5a6452f7ba6637a94/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "045919b5958e9244cb90d1e2ed1abe127b5f793a",
+        "url": "https://api.github.com/repos/angular/angular/commits/045919b5958e9244cb90d1e2ed1abe127b5f793a",
+        "html_url": "https://github.com/angular/angular/commit/045919b5958e9244cb90d1e2ed1abe127b5f793a"
+      }
+    ]
+  },
+  {
+    "sha": "045919b5958e9244cb90d1e2ed1abe127b5f793a",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-03T00:43:04Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-03T00:46:54Z"
+      },
+      "message": "refactor(playground): update Zippy to use @Input and @Output",
+      "tree": {
+        "sha": "890036082c3213a01f984662258dfc11719e9443",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/890036082c3213a01f984662258dfc11719e9443"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/045919b5958e9244cb90d1e2ed1abe127b5f793a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/045919b5958e9244cb90d1e2ed1abe127b5f793a",
+    "html_url": "https://github.com/angular/angular/commit/045919b5958e9244cb90d1e2ed1abe127b5f793a",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/045919b5958e9244cb90d1e2ed1abe127b5f793a/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6f1a89e3a94a33eee95851546117e1c9937cb455",
+        "url": "https://api.github.com/repos/angular/angular/commits/6f1a89e3a94a33eee95851546117e1c9937cb455",
+        "html_url": "https://github.com/angular/angular/commit/6f1a89e3a94a33eee95851546117e1c9937cb455"
+      }
+    ]
+  },
+  {
+    "sha": "6f1a89e3a94a33eee95851546117e1c9937cb455",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-03T00:42:57Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-03T00:46:54Z"
+      },
+      "message": "refactor(playground): update the order management example to use the recommended APIs",
+      "tree": {
+        "sha": "a7fe45f4af18dba1f281c823ddb66a4aff76a038",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/a7fe45f4af18dba1f281c823ddb66a4aff76a038"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/6f1a89e3a94a33eee95851546117e1c9937cb455",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/6f1a89e3a94a33eee95851546117e1c9937cb455",
+    "html_url": "https://github.com/angular/angular/commit/6f1a89e3a94a33eee95851546117e1c9937cb455",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/6f1a89e3a94a33eee95851546117e1c9937cb455/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "134c6f57d59f29a186dc81ef60571c6b26e65e2a",
+        "url": "https://api.github.com/repos/angular/angular/commits/134c6f57d59f29a186dc81ef60571c6b26e65e2a",
+        "html_url": "https://github.com/angular/angular/commit/134c6f57d59f29a186dc81ef60571c6b26e65e2a"
+      }
+    ]
+  },
+  {
+    "sha": "134c6f57d59f29a186dc81ef60571c6b26e65e2a",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-02T23:37:01Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-03T00:46:54Z"
+      },
+      "message": "refactor(playground): update Zippy to use @Input and @Output",
+      "tree": {
+        "sha": "c554ab5ea31c6040b5968cfead88f4fe30fcbec5",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/c554ab5ea31c6040b5968cfead88f4fe30fcbec5"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/134c6f57d59f29a186dc81ef60571c6b26e65e2a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/134c6f57d59f29a186dc81ef60571c6b26e65e2a",
+    "html_url": "https://github.com/angular/angular/commit/134c6f57d59f29a186dc81ef60571c6b26e65e2a",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/134c6f57d59f29a186dc81ef60571c6b26e65e2a/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288",
+        "url": "https://api.github.com/repos/angular/angular/commits/bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288",
+        "html_url": "https://github.com/angular/angular/commit/bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288"
+      }
+    ]
+  },
+  {
+    "sha": "bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-02T20:49:22Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-03T00:46:54Z"
+      },
+      "message": "refactor(playground): update the order management example to use the recommended APIs",
+      "tree": {
+        "sha": "69fd4b39ca88c8044f0c1671d93d9958343b1a24",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/69fd4b39ca88c8044f0c1671d93d9958343b1a24"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288",
+    "html_url": "https://github.com/angular/angular/commit/bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/bf07f9c3e1d7ce04c2a66b6fdff5faaef2c1d288/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c814dfbfa5cef417f478ecfd77a59acbe8682980",
+        "url": "https://api.github.com/repos/angular/angular/commits/c814dfbfa5cef417f478ecfd77a59acbe8682980",
+        "html_url": "https://github.com/angular/angular/commit/c814dfbfa5cef417f478ecfd77a59acbe8682980"
+      }
+    ]
+  },
+  {
+    "sha": "c814dfbfa5cef417f478ecfd77a59acbe8682980",
+    "commit": {
+      "author": {
+        "name": "Yegor Jbanov",
+        "email": "yjbanov@google.com",
+        "date": "2015-11-02T22:42:32Z"
+      },
+      "committer": {
+        "name": "Yegor",
+        "email": "yjbanov@google.com",
+        "date": "2015-11-02T23:46:20Z"
+      },
+      "message": "fix: remove internal usages of deprecated overrideOnTurnDone\n\nCloses #5079",
+      "tree": {
+        "sha": "5e61b72113b4fb720968f506bf30b8c234b756ad",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/5e61b72113b4fb720968f506bf30b8c234b756ad"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/c814dfbfa5cef417f478ecfd77a59acbe8682980",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/c814dfbfa5cef417f478ecfd77a59acbe8682980",
+    "html_url": "https://github.com/angular/angular/commit/c814dfbfa5cef417f478ecfd77a59acbe8682980",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/c814dfbfa5cef417f478ecfd77a59acbe8682980/comments",
+    "author": {
+      "login": "yjbanov",
+      "id": 211513,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211513?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yjbanov",
+      "html_url": "https://github.com/yjbanov",
+      "followers_url": "https://api.github.com/users/yjbanov/followers",
+      "following_url": "https://api.github.com/users/yjbanov/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yjbanov/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yjbanov/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yjbanov/subscriptions",
+      "organizations_url": "https://api.github.com/users/yjbanov/orgs",
+      "repos_url": "https://api.github.com/users/yjbanov/repos",
+      "events_url": "https://api.github.com/users/yjbanov/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yjbanov/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "yjbanov",
+      "id": 211513,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211513?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yjbanov",
+      "html_url": "https://github.com/yjbanov",
+      "followers_url": "https://api.github.com/users/yjbanov/followers",
+      "following_url": "https://api.github.com/users/yjbanov/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yjbanov/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yjbanov/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yjbanov/subscriptions",
+      "organizations_url": "https://api.github.com/users/yjbanov/orgs",
+      "repos_url": "https://api.github.com/users/yjbanov/repos",
+      "events_url": "https://api.github.com/users/yjbanov/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yjbanov/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8dc079eee52f7be87f380479c5d07e59af1d2d77",
+        "url": "https://api.github.com/repos/angular/angular/commits/8dc079eee52f7be87f380479c5d07e59af1d2d77",
+        "html_url": "https://github.com/angular/angular/commit/8dc079eee52f7be87f380479c5d07e59af1d2d77"
+      }
+    ]
+  },
+  {
+    "sha": "8dc079eee52f7be87f380479c5d07e59af1d2d77",
+    "commit": {
+      "author": {
+        "name": "Yegor Jbanov",
+        "email": "yjbanov@google.com",
+        "date": "2015-11-02T22:47:23Z"
+      },
+      "committer": {
+        "name": "Yegor Jbanov",
+        "email": "yjbanov@google.com",
+        "date": "2015-11-02T22:48:23Z"
+      },
+      "message": "docs: add @Input/@Output to deprecation messages",
+      "tree": {
+        "sha": "6bfa22a42e2a002e3dc7ff9c514f821ae9b18c9a",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/6bfa22a42e2a002e3dc7ff9c514f821ae9b18c9a"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/8dc079eee52f7be87f380479c5d07e59af1d2d77",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/8dc079eee52f7be87f380479c5d07e59af1d2d77",
+    "html_url": "https://github.com/angular/angular/commit/8dc079eee52f7be87f380479c5d07e59af1d2d77",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/8dc079eee52f7be87f380479c5d07e59af1d2d77/comments",
+    "author": {
+      "login": "yjbanov",
+      "id": 211513,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211513?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yjbanov",
+      "html_url": "https://github.com/yjbanov",
+      "followers_url": "https://api.github.com/users/yjbanov/followers",
+      "following_url": "https://api.github.com/users/yjbanov/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yjbanov/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yjbanov/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yjbanov/subscriptions",
+      "organizations_url": "https://api.github.com/users/yjbanov/orgs",
+      "repos_url": "https://api.github.com/users/yjbanov/repos",
+      "events_url": "https://api.github.com/users/yjbanov/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yjbanov/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "yjbanov",
+      "id": 211513,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211513?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yjbanov",
+      "html_url": "https://github.com/yjbanov",
+      "followers_url": "https://api.github.com/users/yjbanov/followers",
+      "following_url": "https://api.github.com/users/yjbanov/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yjbanov/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yjbanov/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yjbanov/subscriptions",
+      "organizations_url": "https://api.github.com/users/yjbanov/orgs",
+      "repos_url": "https://api.github.com/users/yjbanov/repos",
+      "events_url": "https://api.github.com/users/yjbanov/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yjbanov/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c4129071efb1f3591d5170d5c81c2c761a2dbd91",
+        "url": "https://api.github.com/repos/angular/angular/commits/c4129071efb1f3591d5170d5c81c2c761a2dbd91",
+        "html_url": "https://github.com/angular/angular/commit/c4129071efb1f3591d5170d5c81c2c761a2dbd91"
+      }
+    ]
+  },
+  {
+    "sha": "c4129071efb1f3591d5170d5c81c2c761a2dbd91",
+    "commit": {
+      "author": {
+        "name": "Yegor Jbanov",
+        "email": "yjbanov@google.com",
+        "date": "2015-11-02T18:17:17Z"
+      },
+      "committer": {
+        "name": "Yegor Jbanov",
+        "email": "yjbanov@google.com",
+        "date": "2015-11-02T22:48:22Z"
+      },
+      "message": "docs(metadata): provide deprecation messages",
+      "tree": {
+        "sha": "f0d4f40a92c9df79620f7fd6ab979928e8cdc884",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/f0d4f40a92c9df79620f7fd6ab979928e8cdc884"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/c4129071efb1f3591d5170d5c81c2c761a2dbd91",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/c4129071efb1f3591d5170d5c81c2c761a2dbd91",
+    "html_url": "https://github.com/angular/angular/commit/c4129071efb1f3591d5170d5c81c2c761a2dbd91",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/c4129071efb1f3591d5170d5c81c2c761a2dbd91/comments",
+    "author": {
+      "login": "yjbanov",
+      "id": 211513,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211513?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yjbanov",
+      "html_url": "https://github.com/yjbanov",
+      "followers_url": "https://api.github.com/users/yjbanov/followers",
+      "following_url": "https://api.github.com/users/yjbanov/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yjbanov/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yjbanov/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yjbanov/subscriptions",
+      "organizations_url": "https://api.github.com/users/yjbanov/orgs",
+      "repos_url": "https://api.github.com/users/yjbanov/repos",
+      "events_url": "https://api.github.com/users/yjbanov/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yjbanov/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "yjbanov",
+      "id": 211513,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211513?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yjbanov",
+      "html_url": "https://github.com/yjbanov",
+      "followers_url": "https://api.github.com/users/yjbanov/followers",
+      "following_url": "https://api.github.com/users/yjbanov/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yjbanov/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yjbanov/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yjbanov/subscriptions",
+      "organizations_url": "https://api.github.com/users/yjbanov/orgs",
+      "repos_url": "https://api.github.com/users/yjbanov/repos",
+      "events_url": "https://api.github.com/users/yjbanov/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yjbanov/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "37c65b74e30e965d3691620f865f52ecc0f6a200",
+        "url": "https://api.github.com/repos/angular/angular/commits/37c65b74e30e965d3691620f865f52ecc0f6a200",
+        "html_url": "https://github.com/angular/angular/commit/37c65b74e30e965d3691620f865f52ecc0f6a200"
+      }
+    ]
+  },
+  {
+    "sha": "37c65b74e30e965d3691620f865f52ecc0f6a200",
+    "commit": {
+      "author": {
+        "name": "Tobias Bosch",
+        "email": "tbosch1009@gmail.com",
+        "date": "2015-11-02T16:41:23Z"
+      },
+      "committer": {
+        "name": "Tobias Bosch",
+        "email": "tbosch1009@gmail.com",
+        "date": "2015-11-02T20:46:27Z"
+      },
+      "message": "chore: fix incremental test.unit.dart\n\nAlways pass the global typings to ts2dart, independent of the result of the riffing\n\nCloses #4881\n\nCloses #5070",
+      "tree": {
+        "sha": "30eefd8fab8098f8817f66bacad50e40172ead22",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/30eefd8fab8098f8817f66bacad50e40172ead22"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/37c65b74e30e965d3691620f865f52ecc0f6a200",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/37c65b74e30e965d3691620f865f52ecc0f6a200",
+    "html_url": "https://github.com/angular/angular/commit/37c65b74e30e965d3691620f865f52ecc0f6a200",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/37c65b74e30e965d3691620f865f52ecc0f6a200/comments",
+    "author": {
+      "login": "tbosch",
+      "id": 690815,
+      "avatar_url": "https://avatars.githubusercontent.com/u/690815?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tbosch",
+      "html_url": "https://github.com/tbosch",
+      "followers_url": "https://api.github.com/users/tbosch/followers",
+      "following_url": "https://api.github.com/users/tbosch/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tbosch/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tbosch/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tbosch/subscriptions",
+      "organizations_url": "https://api.github.com/users/tbosch/orgs",
+      "repos_url": "https://api.github.com/users/tbosch/repos",
+      "events_url": "https://api.github.com/users/tbosch/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tbosch/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tbosch",
+      "id": 690815,
+      "avatar_url": "https://avatars.githubusercontent.com/u/690815?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tbosch",
+      "html_url": "https://github.com/tbosch",
+      "followers_url": "https://api.github.com/users/tbosch/followers",
+      "following_url": "https://api.github.com/users/tbosch/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tbosch/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tbosch/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tbosch/subscriptions",
+      "organizations_url": "https://api.github.com/users/tbosch/orgs",
+      "repos_url": "https://api.github.com/users/tbosch/repos",
+      "events_url": "https://api.github.com/users/tbosch/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tbosch/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1c322f13e5e71f4ed83a949e2ecd1cce0969ada2",
+        "url": "https://api.github.com/repos/angular/angular/commits/1c322f13e5e71f4ed83a949e2ecd1cce0969ada2",
+        "html_url": "https://github.com/angular/angular/commit/1c322f13e5e71f4ed83a949e2ecd1cce0969ada2"
+      }
+    ]
+  },
+  {
+    "sha": "1c322f13e5e71f4ed83a949e2ecd1cce0969ada2",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-02T18:00:56Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-02T18:03:03Z"
+      },
+      "message": "feat(forms): update FormBuilder to support async validations\n\nCloses #5020",
+      "tree": {
+        "sha": "be40c8ec51daae3baaba7cbbcf9302950c6b973b",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/be40c8ec51daae3baaba7cbbcf9302950c6b973b"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/1c322f13e5e71f4ed83a949e2ecd1cce0969ada2",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/1c322f13e5e71f4ed83a949e2ecd1cce0969ada2",
+    "html_url": "https://github.com/angular/angular/commit/1c322f13e5e71f4ed83a949e2ecd1cce0969ada2",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/1c322f13e5e71f4ed83a949e2ecd1cce0969ada2/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "31c12af81facc0621356df9edd693d06bec606fd",
+        "url": "https://api.github.com/repos/angular/angular/commits/31c12af81facc0621356df9edd693d06bec606fd",
+        "html_url": "https://github.com/angular/angular/commit/31c12af81facc0621356df9edd693d06bec606fd"
+      }
+    ]
+  },
+  {
+    "sha": "31c12af81facc0621356df9edd693d06bec606fd",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-02T18:00:42Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-02T18:03:03Z"
+      },
+      "message": "feat(forms): add support for adding async validators via template\n\nExample:\n\n@Directive({\n  selector: '[uniq-login-validator]',\n  providers: [provide(NG_ASYNC_VALIDATORS, {useExisting: UniqLoginValidator, multi: true})]\n})\nclass UniqLoginValidator implements Validator {\n  validate(c) { return someFunctionReturningPromiseOrObservable(); }\n}",
+      "tree": {
+        "sha": "500f987b4d63452d1061a53ae558a5571c621a0f",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/500f987b4d63452d1061a53ae558a5571c621a0f"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/31c12af81facc0621356df9edd693d06bec606fd",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/31c12af81facc0621356df9edd693d06bec606fd",
+    "html_url": "https://github.com/angular/angular/commit/31c12af81facc0621356df9edd693d06bec606fd",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/31c12af81facc0621356df9edd693d06bec606fd/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cf449ddaa969a7d1aac4e1a6a93e247bc9b62998",
+        "url": "https://api.github.com/repos/angular/angular/commits/cf449ddaa969a7d1aac4e1a6a93e247bc9b62998",
+        "html_url": "https://github.com/angular/angular/commit/cf449ddaa969a7d1aac4e1a6a93e247bc9b62998"
+      }
+    ]
+  },
+  {
+    "sha": "cf449ddaa969a7d1aac4e1a6a93e247bc9b62998",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-02T17:59:40Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-02T18:03:02Z"
+      },
+      "message": "feat(forms): implements a combinator for composing async validators",
+      "tree": {
+        "sha": "931bb8bf43902dec9714e8354e65565b578f2424",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/931bb8bf43902dec9714e8354e65565b578f2424"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/cf449ddaa969a7d1aac4e1a6a93e247bc9b62998",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/cf449ddaa969a7d1aac4e1a6a93e247bc9b62998",
+    "html_url": "https://github.com/angular/angular/commit/cf449ddaa969a7d1aac4e1a6a93e247bc9b62998",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/cf449ddaa969a7d1aac4e1a6a93e247bc9b62998/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "53bd6e1642d73168283df7e704b2f43264b825a6",
+        "url": "https://api.github.com/repos/angular/angular/commits/53bd6e1642d73168283df7e704b2f43264b825a6",
+        "html_url": "https://github.com/angular/angular/commit/53bd6e1642d73168283df7e704b2f43264b825a6"
+      }
+    ]
+  },
+  {
+    "sha": "53bd6e1642d73168283df7e704b2f43264b825a6",
+    "commit": {
+      "author": {
+        "name": "vsavkin",
+        "email": "avix1000@gmail.com",
+        "date": "2015-11-02T17:58:42Z"
+      },
+      "committer": {
+        "name": "Victor Savkin",
+        "email": "vic.savkin@gmail.com",
+        "date": "2015-11-02T18:03:02Z"
+      },
+      "message": "feat(facade): add ObservableWrapper.fromPromise",
+      "tree": {
+        "sha": "1729c5425849733b59084897ddd72731a9fa1266",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/1729c5425849733b59084897ddd72731a9fa1266"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/53bd6e1642d73168283df7e704b2f43264b825a6",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/53bd6e1642d73168283df7e704b2f43264b825a6",
+    "html_url": "https://github.com/angular/angular/commit/53bd6e1642d73168283df7e704b2f43264b825a6",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/53bd6e1642d73168283df7e704b2f43264b825a6/comments",
+    "author": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "vsavkin",
+      "id": 35996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35996?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vsavkin",
+      "html_url": "https://github.com/vsavkin",
+      "followers_url": "https://api.github.com/users/vsavkin/followers",
+      "following_url": "https://api.github.com/users/vsavkin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vsavkin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vsavkin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vsavkin/subscriptions",
+      "organizations_url": "https://api.github.com/users/vsavkin/orgs",
+      "repos_url": "https://api.github.com/users/vsavkin/repos",
+      "events_url": "https://api.github.com/users/vsavkin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vsavkin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d6e7a51d9c3e5d7978581c7a708cafc754db0c53",
+        "url": "https://api.github.com/repos/angular/angular/commits/d6e7a51d9c3e5d7978581c7a708cafc754db0c53",
+        "html_url": "https://github.com/angular/angular/commit/d6e7a51d9c3e5d7978581c7a708cafc754db0c53"
+      }
+    ]
+  },
+  {
+    "sha": "d6e7a51d9c3e5d7978581c7a708cafc754db0c53",
+    "commit": {
+      "author": {
+        "name": "Marc Laval",
+        "email": "mlaval@amadeus.com",
+        "date": "2015-11-01T23:37:42Z"
+      },
+      "committer": {
+        "name": "mlaval",
+        "email": "mlaval@amadeus.com",
+        "date": "2015-11-02T09:28:47Z"
+      },
+      "message": "chore(build): npm install fails on Windows after analytics feat\n\nCloses #5055",
+      "tree": {
+        "sha": "61695acfedb4f030ddc67dea171cc3b9182a1997",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/61695acfedb4f030ddc67dea171cc3b9182a1997"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/d6e7a51d9c3e5d7978581c7a708cafc754db0c53",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/d6e7a51d9c3e5d7978581c7a708cafc754db0c53",
+    "html_url": "https://github.com/angular/angular/commit/d6e7a51d9c3e5d7978581c7a708cafc754db0c53",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/d6e7a51d9c3e5d7978581c7a708cafc754db0c53/comments",
+    "author": {
+      "login": "mlaval",
+      "id": 2316643,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2316643?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mlaval",
+      "html_url": "https://github.com/mlaval",
+      "followers_url": "https://api.github.com/users/mlaval/followers",
+      "following_url": "https://api.github.com/users/mlaval/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mlaval/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mlaval/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mlaval/subscriptions",
+      "organizations_url": "https://api.github.com/users/mlaval/orgs",
+      "repos_url": "https://api.github.com/users/mlaval/repos",
+      "events_url": "https://api.github.com/users/mlaval/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mlaval/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mlaval",
+      "id": 2316643,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2316643?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mlaval",
+      "html_url": "https://github.com/mlaval",
+      "followers_url": "https://api.github.com/users/mlaval/followers",
+      "following_url": "https://api.github.com/users/mlaval/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mlaval/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mlaval/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mlaval/subscriptions",
+      "organizations_url": "https://api.github.com/users/mlaval/orgs",
+      "repos_url": "https://api.github.com/users/mlaval/repos",
+      "events_url": "https://api.github.com/users/mlaval/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mlaval/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "13447e3198abcacef6e5fe5fcb77dd755f56ad4d",
+        "url": "https://api.github.com/repos/angular/angular/commits/13447e3198abcacef6e5fe5fcb77dd755f56ad4d",
+        "html_url": "https://github.com/angular/angular/commit/13447e3198abcacef6e5fe5fcb77dd755f56ad4d"
+      }
+    ]
+  },
+  {
+    "sha": "13447e3198abcacef6e5fe5fcb77dd755f56ad4d",
+    "commit": {
+      "author": {
+        "name": "mlaval",
+        "email": "mlaval@amadeus.com",
+        "date": "2015-10-27T15:09:09Z"
+      },
+      "committer": {
+        "name": "Marc Laval",
+        "email": "mlaval@amadeus.com",
+        "date": "2015-11-01T22:22:40Z"
+      },
+      "message": "build(browserstack): initial setup\n\nCloses #4941",
+      "tree": {
+        "sha": "b6be00d84db3b14001675712da89e4f8d26c8216",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/b6be00d84db3b14001675712da89e4f8d26c8216"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/13447e3198abcacef6e5fe5fcb77dd755f56ad4d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/13447e3198abcacef6e5fe5fcb77dd755f56ad4d",
+    "html_url": "https://github.com/angular/angular/commit/13447e3198abcacef6e5fe5fcb77dd755f56ad4d",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/13447e3198abcacef6e5fe5fcb77dd755f56ad4d/comments",
+    "author": {
+      "login": "mlaval",
+      "id": 2316643,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2316643?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mlaval",
+      "html_url": "https://github.com/mlaval",
+      "followers_url": "https://api.github.com/users/mlaval/followers",
+      "following_url": "https://api.github.com/users/mlaval/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mlaval/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mlaval/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mlaval/subscriptions",
+      "organizations_url": "https://api.github.com/users/mlaval/orgs",
+      "repos_url": "https://api.github.com/users/mlaval/repos",
+      "events_url": "https://api.github.com/users/mlaval/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mlaval/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mlaval",
+      "id": 2316643,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2316643?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mlaval",
+      "html_url": "https://github.com/mlaval",
+      "followers_url": "https://api.github.com/users/mlaval/followers",
+      "following_url": "https://api.github.com/users/mlaval/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mlaval/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mlaval/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mlaval/subscriptions",
+      "organizations_url": "https://api.github.com/users/mlaval/orgs",
+      "repos_url": "https://api.github.com/users/mlaval/repos",
+      "events_url": "https://api.github.com/users/mlaval/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mlaval/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "84fe0c9d3e4280c09e1a7890c70bd550700e46eb",
+        "url": "https://api.github.com/repos/angular/angular/commits/84fe0c9d3e4280c09e1a7890c70bd550700e46eb",
+        "html_url": "https://github.com/angular/angular/commit/84fe0c9d3e4280c09e1a7890c70bd550700e46eb"
+      }
+    ]
+  },
+  {
+    "sha": "84fe0c9d3e4280c09e1a7890c70bd550700e46eb",
+    "commit": {
+      "author": {
+        "name": "Marc Laval",
+        "email": "mlaval@amadeus.com",
+        "date": "2015-10-27T14:52:08Z"
+      },
+      "committer": {
+        "name": "Marc Laval",
+        "email": "mlaval@amadeus.com",
+        "date": "2015-11-01T22:21:15Z"
+      },
+      "message": "build(browserstack): add npm dependencies",
+      "tree": {
+        "sha": "d6e93eaf950b166110211ce3aed7b81513d263af",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/d6e93eaf950b166110211ce3aed7b81513d263af"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/84fe0c9d3e4280c09e1a7890c70bd550700e46eb",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/84fe0c9d3e4280c09e1a7890c70bd550700e46eb",
+    "html_url": "https://github.com/angular/angular/commit/84fe0c9d3e4280c09e1a7890c70bd550700e46eb",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/84fe0c9d3e4280c09e1a7890c70bd550700e46eb/comments",
+    "author": {
+      "login": "mlaval",
+      "id": 2316643,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2316643?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mlaval",
+      "html_url": "https://github.com/mlaval",
+      "followers_url": "https://api.github.com/users/mlaval/followers",
+      "following_url": "https://api.github.com/users/mlaval/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mlaval/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mlaval/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mlaval/subscriptions",
+      "organizations_url": "https://api.github.com/users/mlaval/orgs",
+      "repos_url": "https://api.github.com/users/mlaval/repos",
+      "events_url": "https://api.github.com/users/mlaval/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mlaval/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mlaval",
+      "id": 2316643,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2316643?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mlaval",
+      "html_url": "https://github.com/mlaval",
+      "followers_url": "https://api.github.com/users/mlaval/followers",
+      "following_url": "https://api.github.com/users/mlaval/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mlaval/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mlaval/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mlaval/subscriptions",
+      "organizations_url": "https://api.github.com/users/mlaval/orgs",
+      "repos_url": "https://api.github.com/users/mlaval/repos",
+      "events_url": "https://api.github.com/users/mlaval/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mlaval/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1b78342e23f00ed5c6494e7d192a7356c841d7cb",
+        "url": "https://api.github.com/repos/angular/angular/commits/1b78342e23f00ed5c6494e7d192a7356c841d7cb",
+        "html_url": "https://github.com/angular/angular/commit/1b78342e23f00ed5c6494e7d192a7356c841d7cb"
+      }
+    ]
+  },
+  {
+    "sha": "1b78342e23f00ed5c6494e7d192a7356c841d7cb",
+    "commit": {
+      "author": {
+        "name": "Misko Hevery",
+        "email": "misko@hevery.com",
+        "date": "2015-10-27T03:17:46Z"
+      },
+      "committer": {
+        "name": "Misko Hevery",
+        "email": "misko@hevery.com",
+        "date": "2015-11-01T03:48:27Z"
+      },
+      "message": "chore(ngUpgrade): Move into Angular2\n\nThis is moving ngUpgrade into the main repository per #4838.\nThe ngUpgrade is published from the main import consistent with\nhttps://docs.google.com/document/d/1rbVTKTYLz6p2smQNYI8h4-QN-m2PS6F3iQIDmSzn0Ww/edit#heading=h.6cxvr9awtf5r\nCloses #4931",
+      "tree": {
+        "sha": "5120ccf86f3256dc6f582f6cb415a8bd1ad3be83",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/5120ccf86f3256dc6f582f6cb415a8bd1ad3be83"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/1b78342e23f00ed5c6494e7d192a7356c841d7cb",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/1b78342e23f00ed5c6494e7d192a7356c841d7cb",
+    "html_url": "https://github.com/angular/angular/commit/1b78342e23f00ed5c6494e7d192a7356c841d7cb",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/1b78342e23f00ed5c6494e7d192a7356c841d7cb/comments",
+    "author": {
+      "login": "mhevery",
+      "id": 111951,
+      "avatar_url": "https://avatars.githubusercontent.com/u/111951?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mhevery",
+      "html_url": "https://github.com/mhevery",
+      "followers_url": "https://api.github.com/users/mhevery/followers",
+      "following_url": "https://api.github.com/users/mhevery/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mhevery/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mhevery/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mhevery/subscriptions",
+      "organizations_url": "https://api.github.com/users/mhevery/orgs",
+      "repos_url": "https://api.github.com/users/mhevery/repos",
+      "events_url": "https://api.github.com/users/mhevery/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mhevery/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mhevery",
+      "id": 111951,
+      "avatar_url": "https://avatars.githubusercontent.com/u/111951?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mhevery",
+      "html_url": "https://github.com/mhevery",
+      "followers_url": "https://api.github.com/users/mhevery/followers",
+      "following_url": "https://api.github.com/users/mhevery/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mhevery/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mhevery/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mhevery/subscriptions",
+      "organizations_url": "https://api.github.com/users/mhevery/orgs",
+      "repos_url": "https://api.github.com/users/mhevery/repos",
+      "events_url": "https://api.github.com/users/mhevery/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mhevery/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "54f7e62c43108b70f6eeab8924415f608a1c3fad",
+        "url": "https://api.github.com/repos/angular/angular/commits/54f7e62c43108b70f6eeab8924415f608a1c3fad",
+        "html_url": "https://github.com/angular/angular/commit/54f7e62c43108b70f6eeab8924415f608a1c3fad"
+      }
+    ]
+  },
+  {
+    "sha": "54f7e62c43108b70f6eeab8924415f608a1c3fad",
+    "commit": {
+      "author": {
+        "name": "Alex Eagle",
+        "email": "alexeagle@google.com",
+        "date": "2015-10-30T14:34:48Z"
+      },
+      "committer": {
+        "name": "Alex Eagle",
+        "email": "eagle@post.harvard.edu",
+        "date": "2015-10-31T04:29:48Z"
+      },
+      "message": "chore(travis): upload dist folder anytime the js and dart builds succeed\n\nCloses #5033",
+      "tree": {
+        "sha": "60cc2cf0ee303c85238039cc8a72bb367c690818",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/60cc2cf0ee303c85238039cc8a72bb367c690818"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/54f7e62c43108b70f6eeab8924415f608a1c3fad",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/54f7e62c43108b70f6eeab8924415f608a1c3fad",
+    "html_url": "https://github.com/angular/angular/commit/54f7e62c43108b70f6eeab8924415f608a1c3fad",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/54f7e62c43108b70f6eeab8924415f608a1c3fad/comments",
+    "author": {
+      "login": "alexeagle",
+      "id": 47395,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47395?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/alexeagle",
+      "html_url": "https://github.com/alexeagle",
+      "followers_url": "https://api.github.com/users/alexeagle/followers",
+      "following_url": "https://api.github.com/users/alexeagle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/alexeagle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/alexeagle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/alexeagle/subscriptions",
+      "organizations_url": "https://api.github.com/users/alexeagle/orgs",
+      "repos_url": "https://api.github.com/users/alexeagle/repos",
+      "events_url": "https://api.github.com/users/alexeagle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/alexeagle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "alexeagle",
+      "id": 47395,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47395?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/alexeagle",
+      "html_url": "https://github.com/alexeagle",
+      "followers_url": "https://api.github.com/users/alexeagle/followers",
+      "following_url": "https://api.github.com/users/alexeagle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/alexeagle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/alexeagle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/alexeagle/subscriptions",
+      "organizations_url": "https://api.github.com/users/alexeagle/orgs",
+      "repos_url": "https://api.github.com/users/alexeagle/repos",
+      "events_url": "https://api.github.com/users/alexeagle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/alexeagle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0ebe283b370ead8f483b89bf0e0d6b8288c3d752",
+        "url": "https://api.github.com/repos/angular/angular/commits/0ebe283b370ead8f483b89bf0e0d6b8288c3d752",
+        "html_url": "https://github.com/angular/angular/commit/0ebe283b370ead8f483b89bf0e0d6b8288c3d752"
+      }
+    ]
+  },
+  {
+    "sha": "0ebe283b370ead8f483b89bf0e0d6b8288c3d752",
+    "commit": {
+      "author": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-31T00:05:30Z"
+      },
+      "committer": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-31T00:26:12Z"
+      },
+      "message": "feat(router): provide RouteConfig object for AuxRoute\n\nCloses #4319",
+      "tree": {
+        "sha": "c85b11eccb02b5407964f40741236b1df858a193",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/c85b11eccb02b5407964f40741236b1df858a193"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/0ebe283b370ead8f483b89bf0e0d6b8288c3d752",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/0ebe283b370ead8f483b89bf0e0d6b8288c3d752",
+    "html_url": "https://github.com/angular/angular/commit/0ebe283b370ead8f483b89bf0e0d6b8288c3d752",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/0ebe283b370ead8f483b89bf0e0d6b8288c3d752/comments",
+    "author": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "23784a2eca11160a27d7af58e320d962f38649ec",
+        "url": "https://api.github.com/repos/angular/angular/commits/23784a2eca11160a27d7af58e320d962f38649ec",
+        "html_url": "https://github.com/angular/angular/commit/23784a2eca11160a27d7af58e320d962f38649ec"
+      }
+    ]
+  },
+  {
+    "sha": "23784a2eca11160a27d7af58e320d962f38649ec",
+    "commit": {
+      "author": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-31T00:03:19Z"
+      },
+      "committer": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-31T00:26:12Z"
+      },
+      "message": "fix(router): properly serialize aux routes\n\nPreviously, routes would be generated with a leading slash after the parens:\n\n    example.com/foo(/bar)\n\nThis fix removes the trailing slash when generating the URL, so now we have:\n\n    example.com/foo(bar)\n\nThis change is not breaking because we still recognize both forms. We just normalize\nwithout the slash.",
+      "tree": {
+        "sha": "a66ab6edc0f2bfd06d652f6abbf28e48cc93d0d7",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/a66ab6edc0f2bfd06d652f6abbf28e48cc93d0d7"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/23784a2eca11160a27d7af58e320d962f38649ec",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/23784a2eca11160a27d7af58e320d962f38649ec",
+    "html_url": "https://github.com/angular/angular/commit/23784a2eca11160a27d7af58e320d962f38649ec",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/23784a2eca11160a27d7af58e320d962f38649ec/comments",
+    "author": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d8775e0e1fc702d608c8926429bb082dd4b21158",
+        "url": "https://api.github.com/repos/angular/angular/commits/d8775e0e1fc702d608c8926429bb082dd4b21158",
+        "html_url": "https://github.com/angular/angular/commit/d8775e0e1fc702d608c8926429bb082dd4b21158"
+      }
+    ]
+  },
+  {
+    "sha": "d8775e0e1fc702d608c8926429bb082dd4b21158",
+    "commit": {
+      "author": {
+        "name": "Tobias Bosch",
+        "email": "tbosch1009@gmail.com",
+        "date": "2015-10-30T22:09:04Z"
+      },
+      "committer": {
+        "name": "Tobias Bosch",
+        "email": "tbosch1009@gmail.com",
+        "date": "2015-10-30T23:28:26Z"
+      },
+      "message": "fix(shadow_css): strip comments and fix logic for parsing rules.\n\nCloses #5037\nCloses #5011",
+      "tree": {
+        "sha": "e690fdb180f91529b22ff46c6f827b836799dbd6",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/e690fdb180f91529b22ff46c6f827b836799dbd6"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/d8775e0e1fc702d608c8926429bb082dd4b21158",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/d8775e0e1fc702d608c8926429bb082dd4b21158",
+    "html_url": "https://github.com/angular/angular/commit/d8775e0e1fc702d608c8926429bb082dd4b21158",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/d8775e0e1fc702d608c8926429bb082dd4b21158/comments",
+    "author": {
+      "login": "tbosch",
+      "id": 690815,
+      "avatar_url": "https://avatars.githubusercontent.com/u/690815?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tbosch",
+      "html_url": "https://github.com/tbosch",
+      "followers_url": "https://api.github.com/users/tbosch/followers",
+      "following_url": "https://api.github.com/users/tbosch/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tbosch/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tbosch/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tbosch/subscriptions",
+      "organizations_url": "https://api.github.com/users/tbosch/orgs",
+      "repos_url": "https://api.github.com/users/tbosch/repos",
+      "events_url": "https://api.github.com/users/tbosch/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tbosch/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tbosch",
+      "id": 690815,
+      "avatar_url": "https://avatars.githubusercontent.com/u/690815?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tbosch",
+      "html_url": "https://github.com/tbosch",
+      "followers_url": "https://api.github.com/users/tbosch/followers",
+      "following_url": "https://api.github.com/users/tbosch/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tbosch/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tbosch/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tbosch/subscriptions",
+      "organizations_url": "https://api.github.com/users/tbosch/orgs",
+      "repos_url": "https://api.github.com/users/tbosch/repos",
+      "events_url": "https://api.github.com/users/tbosch/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tbosch/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "53bddec1d2a803dec2a45de28bee1f4b505e646e",
+        "url": "https://api.github.com/repos/angular/angular/commits/53bddec1d2a803dec2a45de28bee1f4b505e646e",
+        "html_url": "https://github.com/angular/angular/commit/53bddec1d2a803dec2a45de28bee1f4b505e646e"
+      }
+    ]
+  },
+  {
+    "sha": "53bddec1d2a803dec2a45de28bee1f4b505e646e",
+    "commit": {
+      "author": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-30T15:48:47Z"
+      },
+      "committer": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-30T22:04:31Z"
+      },
+      "message": "fix(router): respond to hashchange events\n\nPreviously if the URL changed in `HashLocation` mode, the router would not pick up the change.\nThis adds a listener in `HashLocationStrategy` for `hashchange` events to fix the problem.\n\nCloses #5013",
+      "tree": {
+        "sha": "2421e2d4e801d7d225ad07a539bd4fe36fc76d9b",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/2421e2d4e801d7d225ad07a539bd4fe36fc76d9b"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/53bddec1d2a803dec2a45de28bee1f4b505e646e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/53bddec1d2a803dec2a45de28bee1f4b505e646e",
+    "html_url": "https://github.com/angular/angular/commit/53bddec1d2a803dec2a45de28bee1f4b505e646e",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/53bddec1d2a803dec2a45de28bee1f4b505e646e/comments",
+    "author": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cb2b69047154b56b5e4a65aaee7186fabb2394a0",
+        "url": "https://api.github.com/repos/angular/angular/commits/cb2b69047154b56b5e4a65aaee7186fabb2394a0",
+        "html_url": "https://github.com/angular/angular/commit/cb2b69047154b56b5e4a65aaee7186fabb2394a0"
+      }
+    ]
+  },
+  {
+    "sha": "cb2b69047154b56b5e4a65aaee7186fabb2394a0",
+    "commit": {
+      "author": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-30T18:31:26Z"
+      },
+      "committer": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-30T21:27:47Z"
+      },
+      "message": "chore(examples): explain the purpose of these examples",
+      "tree": {
+        "sha": "4c5933513cfb38281721865e0320d6717ba05b7c",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/4c5933513cfb38281721865e0320d6717ba05b7c"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/cb2b69047154b56b5e4a65aaee7186fabb2394a0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/cb2b69047154b56b5e4a65aaee7186fabb2394a0",
+    "html_url": "https://github.com/angular/angular/commit/cb2b69047154b56b5e4a65aaee7186fabb2394a0",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/cb2b69047154b56b5e4a65aaee7186fabb2394a0/comments",
+    "author": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7d154e38d13faa5ec5ae0bdec0e13408b9320181",
+        "url": "https://api.github.com/repos/angular/angular/commits/7d154e38d13faa5ec5ae0bdec0e13408b9320181",
+        "html_url": "https://github.com/angular/angular/commit/7d154e38d13faa5ec5ae0bdec0e13408b9320181"
+      }
+    ]
+  },
+  {
+    "sha": "7d154e38d13faa5ec5ae0bdec0e13408b9320181",
+    "commit": {
+      "author": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-30T18:30:51Z"
+      },
+      "committer": {
+        "name": "Brian Ford",
+        "email": "btford@umich.edu",
+        "date": "2015-10-30T21:27:47Z"
+      },
+      "message": "chore(gulp): rename serve/examples to serve/playground",
+      "tree": {
+        "sha": "6a83b7d75719f0ad52107bd0a483cd57f760ee67",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/6a83b7d75719f0ad52107bd0a483cd57f760ee67"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/7d154e38d13faa5ec5ae0bdec0e13408b9320181",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/7d154e38d13faa5ec5ae0bdec0e13408b9320181",
+    "html_url": "https://github.com/angular/angular/commit/7d154e38d13faa5ec5ae0bdec0e13408b9320181",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/7d154e38d13faa5ec5ae0bdec0e13408b9320181/comments",
+    "author": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "btford",
+      "id": 474988,
+      "avatar_url": "https://avatars.githubusercontent.com/u/474988?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/btford",
+      "html_url": "https://github.com/btford",
+      "followers_url": "https://api.github.com/users/btford/followers",
+      "following_url": "https://api.github.com/users/btford/following{/other_user}",
+      "gists_url": "https://api.github.com/users/btford/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/btford/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/btford/subscriptions",
+      "organizations_url": "https://api.github.com/users/btford/orgs",
+      "repos_url": "https://api.github.com/users/btford/repos",
+      "events_url": "https://api.github.com/users/btford/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/btford/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "78875d57c88c9f8e7357de5847a18581c0f49856",
+        "url": "https://api.github.com/repos/angular/angular/commits/78875d57c88c9f8e7357de5847a18581c0f49856",
+        "html_url": "https://github.com/angular/angular/commit/78875d57c88c9f8e7357de5847a18581c0f49856"
+      }
+    ]
+  },
+  {
+    "sha": "78875d57c88c9f8e7357de5847a18581c0f49856",
+    "commit": {
+      "author": {
+        "name": "Alex Eagle",
+        "email": "alexeagle@google.com",
+        "date": "2015-10-10T16:45:04Z"
+      },
+      "committer": {
+        "name": "Alex Eagle",
+        "email": "eagle@post.harvard.edu",
+        "date": "2015-10-30T20:28:56Z"
+      },
+      "message": "chore(typings): add router_spec to test.typings\n\nCloses #4651",
+      "tree": {
+        "sha": "42795fd9e83e9e11eaf8b1a55f923e4c412e8004",
+        "url": "https://api.github.com/repos/angular/angular/git/trees/42795fd9e83e9e11eaf8b1a55f923e4c412e8004"
+      },
+      "url": "https://api.github.com/repos/angular/angular/git/commits/78875d57c88c9f8e7357de5847a18581c0f49856",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/angular/angular/commits/78875d57c88c9f8e7357de5847a18581c0f49856",
+    "html_url": "https://github.com/angular/angular/commit/78875d57c88c9f8e7357de5847a18581c0f49856",
+    "comments_url": "https://api.github.com/repos/angular/angular/commits/78875d57c88c9f8e7357de5847a18581c0f49856/comments",
+    "author": {
+      "login": "alexeagle",
+      "id": 47395,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47395?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/alexeagle",
+      "html_url": "https://github.com/alexeagle",
+      "followers_url": "https://api.github.com/users/alexeagle/followers",
+      "following_url": "https://api.github.com/users/alexeagle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/alexeagle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/alexeagle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/alexeagle/subscriptions",
+      "organizations_url": "https://api.github.com/users/alexeagle/orgs",
+      "repos_url": "https://api.github.com/users/alexeagle/repos",
+      "events_url": "https://api.github.com/users/alexeagle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/alexeagle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "alexeagle",
+      "id": 47395,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47395?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/alexeagle",
+      "html_url": "https://github.com/alexeagle",
+      "followers_url": "https://api.github.com/users/alexeagle/followers",
+      "following_url": "https://api.github.com/users/alexeagle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/alexeagle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/alexeagle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/alexeagle/subscriptions",
+      "organizations_url": "https://api.github.com/users/alexeagle/orgs",
+      "repos_url": "https://api.github.com/users/alexeagle/repos",
+      "events_url": "https://api.github.com/users/alexeagle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/alexeagle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "45b33c5a9022064600fbbad70c23504188b84b2a",
+        "url": "https://api.github.com/repos/angular/angular/commits/45b33c5a9022064600fbbad70c23504188b84b2a",
+        "html_url": "https://github.com/angular/angular/commit/45b33c5a9022064600fbbad70c23504188b84b2a"
+      }
+    ]
+  }
+]

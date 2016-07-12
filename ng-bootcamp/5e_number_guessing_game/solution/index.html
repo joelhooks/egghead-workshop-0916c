@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" ng-app="guess-it">
+<head>
+  <meta charset="UTF-8">
+  <title>Guessing Game</title>
+
+  <link rel="stylesheet" href="../../vendor/bootstrap-css/css/bootstrap.css">
+
+  <script src="../../vendor/angular/angular.js"></script>
+  <script src="app.js"></script>
+</head>
+<body>
+<div class="container" ng-controller="GameCtrl as game">
+  <h1>Guess the Number!</h1>
+  <section>
+    <div class="well">Guess the number between 1 and 1000</div>
+    <div ng-if="game.delta !== 0">
+      <input type="text" ng-model="game.guess">
+      <button ng-click="game.handleUserGuess(game.guess)" class="btn btn-success">Guess!</button>
+    </div>
+  </section>
+  <hr>
+  <section>
+    <h3 ng-if="game.currentGuess">You guessed <code>{{game.currentGuess}}</code>.</h3>
+    <div ng-if="game.delta < 0" class="alert alert-danger">Your guess is too small!</div>
+    <div ng-if="game.delta > 0" class="alert alert-danger">Your guess is too big!</div>
+    <div ng-if="game.delta === 0" class="alert alert-success">Your guess is correct!</div>
+    <div>Guesses <span class="badge">{{ game.numGuesses }}</span></div>
+  </section>
+</div>
+</body>
+</html>
