@@ -5,4 +5,4 @@ uses: ng-model, curly brace binding, ng-app
 Create a series of inputs that ask for various parts of speech or
 things (like "a food" or "a color").
 
-Use those words to create wacky sentances! :>
+Use those words to create wacky sentences! :>
