@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en" ng-app="exampleApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Training</title>
+  <script src="../vendor/angular/angular.js"></script>
+  <script src="app.js"></script>
+</head>
+<body ng-controller="AppCtrl as app">
+
+math is fun! {{ 1 + 1 }}
+<hr>
+<label >First:
+  <input type="text" ng-model="app.newFirstName">
+</label>
+<label>Last:
+  <input type="text" ng-model="app.newLastName">
+</label>
+<button ng-click="app.submitName(app.newFirstName, app.newLastName)">submit</button>
+
+<div>
+  <h1>
+    My name is <strong>{{ app.firstName }}</strong> {{ app.lastName }}
+  </h1>
+</div>
+
+</body>
+</html>
