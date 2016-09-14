@@ -1,0 +1,14 @@
+<style>
+  .selected {
+    border: 1px solid red;
+  }
+</style>
+<ul class="list-unstyled list-inline">
+  <li ng-click="tabs.selectTab(tab)"
+      ng-repeat="tab in tabs.registeredTabs"
+      ng-class="{selected: tab.selected}">
+    {{tab.label}}
+  </li>
+</ul>
+
+<div ng-transclude></div>
