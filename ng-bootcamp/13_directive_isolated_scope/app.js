@@ -46,7 +46,7 @@ angular.module('exampleApp', [])
       app.people = result.data;
     });
 
-    $http.get('http://www.json-generator.com/api/json/get/bUstkZFvvS?indent=2')
+    $http.get('http://www.json-generator.com/api/json/get/bUstkZFvvS')
       .then(function (result) {
         app.morePeople = result.data;
       });
