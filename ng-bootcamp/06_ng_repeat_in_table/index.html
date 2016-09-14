@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" ng-app="exampleApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Training</title>
+  <script src="../vendor/angular/angular.js"></script>
+  <script src="app.js"></script>
+</head>
+<body ng-controller="AppCtrl as app">
+
+  <table>
+    <thead>
+      <tr>
+        <th>First</th>
+        <th>Last</th>
+        <th>Company</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="person in app.people">
+        <td>{{person.firstName}}</td>
+        <td>{{person.lastName}}</td>
+        <td>{{person.company}}</td>
+        <td>{{person.email}}</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
