@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en" ng-app="exampleApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Training</title>
+  <script src="../vendor/angular/angular.js"></script>
+  <script src="app.js"></script>
+  <script src="people-list.js"></script>
+  <link rel="stylesheet" href="../vendor/bootstrap-css/css/bootstrap.css">
+</head>
+<body ng-controller="AppCtrl as app">
+
+<headline text="This is configurable headline text!"></headline>
+<headline text="Waaa? Another headline??!"></headline>
+
+<people-list people="app.morePeople"></people-list>
+<people-list people="app.people"></people-list>
+
+</body>
+</html>
