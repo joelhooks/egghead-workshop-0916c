@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" ng-app="exampleApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Training</title>
+  <script src="../vendor/angular/angular.js"></script>
+  <script src="app.js"></script>
+  <link rel="stylesheet" href="../vendor/bootstrap-css/css/bootstrap.css">
+</head>
+<body ng-controller="AppCtrl as app">
+  <label>First:
+    <input
+        type="text"
+        ng-model="filterModel.firstName"
+        ng-model-options="app.filterModelOptions">
+  </label>
+  <label>Email:
+    <input type="email"
+           ng-model="filterModel.email"
+           ng-model-options="app.filterModelOptions">
+  </label>
+
+  <hr>
+  <table class="table">
+    <thead>
+      <tr>
+        <th ng-click="app.setOrderByField('firstName')">First</th>
+        <th ng-click="app.setOrderByField('lastName')">Last</th>
+        <th ng-click="app.setOrderByField('company')">Company</th>
+        <th ng-click="app.setOrderByField('email')">Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="person in app.people | filter:filterModel | orderBy: app.orderByField">
+        <td>{{person.firstName}}</td>
+        <td>{{person.lastName}}</td>
+        <td>{{person.company}}</td>
+        <td>{{person.email}}</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
