@@ -7,8 +7,12 @@ angular.module('ps.user-detail', [])
         controller: 'UserDetailCtrl as userDetail'
       })
   })
-  .controller('UserDetailCtrl', function UserDetailCtrl() {
+  .controller('UserDetailCtrl', function UserDetailCtrl($stateParams, userService) {
     var userDetail = this;
-    console.log('user detail controller')
+
+    userService.getUser($stateParams.username).then(function(user) {
+      userDetail.user = user;
+    })
+
   })
 ;
