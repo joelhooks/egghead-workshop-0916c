@@ -2,14 +2,14 @@
 ## Up & Running
 This project uses [node.js](http://nodejs.org/). You will need to install node. The `node -v` should be >= 4.0 and `npm -v` should be >= 3.0.
 
-> **NOTE** the 4.x LTS version of node does *not* install npm version 3.x! Install node 5.0 or upgrade npm!
+> **NOTE** the 4.x LTS version of node does *not* install npm version 3.x! Install node 6.x or upgrade npm!
   
   We will need some global libraries.
   
   * `npm install -g gulp`
   * `npm install -g karma-cli`
 
-With node and these global dependencies installed, run `npm install` from the project directory. This will install the local dependencies the project relies on.
+With node and these global dependencies installed, run `2` from the project directory. This will install the local dependencies the project relies on.
 
 Once npm has installed your dependencies, you can now run the build with the `npm start` command in the project directory. This launches a sequence of tasks and starts a local web server on port 3444 (http://localhost:3444).
 

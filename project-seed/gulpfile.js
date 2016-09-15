@@ -61,9 +61,9 @@ gulp.task('copy-app-js', function() {
 	return gulp.src(files.app_files.js)
     .pipe(plumber())
     .pipe(sourcemaps.init())
-    .pipe(babel({
-        presets: ['babel-preset-es2015']
-    }))
+    // .pipe(babel({
+    //     presets: ['babel-preset-es2015']
+    // }))
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('./build'));
 });
