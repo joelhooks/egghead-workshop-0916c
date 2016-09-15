@@ -3,7 +3,7 @@ angular.module('ps.user-list', [])
   .config(function($stateProvider) {
     $stateProvider
       .state('userList', {
-        url: '',
+        url: '/users',
         templateUrl: 'user-list/user-list.tpl.html',
         controller: 'UserListCtrl as userList'
       })

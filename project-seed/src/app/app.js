@@ -8,5 +8,7 @@ angular.module('project-seed', [
   'ps.user-detail'
 ])
 
-
+  .config(function($urlRouterProvider) {
+    $urlRouterProvider.otherwise('/users');
+  })
 ;
