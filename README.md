@@ -40,3 +40,5 @@ https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loo
 https://egghead.io/courses/reduce-data-with-javascript
 
 underscore: https://jsbin.com/juwibu/edit?js,console
+
+uic live template -> http://cloud.egghead.io/45000W2B0116

@@ -3,15 +3,9 @@ angular.module('project-seed', [
   'ngAria',
   'ui.router',
   'ui.bootstrap',
-  // 'templates-app'
+  'templates-app',
+  'ps.user-list'
 ])
-  .controller('AppCtrl', function AppCtrl($http) {
-    var app = this;
 
-    $http.get('https://api.github.com/users').then(function (results) {
-      app.users = results.data;
-    })
-
-  })
 
 ;
