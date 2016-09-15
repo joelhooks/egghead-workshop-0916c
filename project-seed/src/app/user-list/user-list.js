@@ -9,11 +9,11 @@ angular.module('ps.user-list', [])
       })
   })
 
-  .controller('UserListCtrl', function UserListCtrl($http) {
+  .controller('UserListCtrl', function UserListCtrl(userService) {
     var userList = this;
 
-    $http.get('https://api.github.com/users').then(function (results) {
-      userList.users = results.data;
+    userService.getUsers().then(function (users) {
+      userList.users = users;
     })
   })
 ;
