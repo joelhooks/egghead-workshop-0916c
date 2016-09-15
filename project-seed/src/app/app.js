@@ -4,7 +4,8 @@ angular.module('project-seed', [
   'ui.router',
   'ui.bootstrap',
   'templates-app',
-  'ps.user-list'
+  'ps.user-list',
+  'ps.user-detail'
 ])
 
 
