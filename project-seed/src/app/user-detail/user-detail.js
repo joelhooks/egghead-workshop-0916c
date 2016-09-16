@@ -1,4 +1,6 @@
-angular.module('ps.user-detail', [])
+angular.module('ps.user-detail', [
+  'ps.user-detail.repos'
+])
   .config(function($stateProvider) {
     $stateProvider
       .state('userDetail', {

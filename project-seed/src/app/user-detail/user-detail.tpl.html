@@ -2,3 +2,10 @@
 <h1>{{userDetail.user.login}}</h1>
 <img src="{{userDetail.user.avatar_url}}" class="avatar">
 
+<ul>
+  <li><a ui-sref="userDetail.repos">Repos</a></li>
+  <li><a>Events</a></li>
+</ul>
+
+<div ui-view></div>
+
