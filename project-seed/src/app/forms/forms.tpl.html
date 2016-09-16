@@ -1,0 +1,32 @@
+<form name="myForm" ng-submit="formExample.submit(myForm.$valid)">
+<div class="field">
+  <label>Name:
+    <input type="text"
+           name="myName"
+           ng-model="formExample.person.name" class="input">
+  </label>
+  <label>Email:
+    <input has-name-validator="joel"
+           type="email"
+           name="myEmail"
+           ng-model="formExample.person.email"
+           minlength="5"
+           maxlength="50"
+           class="input"
+           required >
+  </label>
+
+  <input type="submit" value="Submit" class="btn btn-primary" ng-disabled="myForm.$invalid"/>
+  <br><br><br>
+
+  <div ng-messages="myForm.myEmail.$error" class="errors">
+    <div ng-message="required">You need to enter an email.</div>
+    <div ng-message="minlength">Email must be at least 5 characters</div>
+    <div ng-message="email">Invalid email.</div>
+    <div ng-message="hasName">You must be a Joel</div>
+    <div ng-message="maxlength">Your email is too long!</div>
+  </div>
+
+
+</div>
+</form>
